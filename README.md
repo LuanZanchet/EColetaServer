@@ -1,6 +1,6 @@
 Ecoleta aims to connect people to companies that collect waste.
 
-##Technologies:
+## Technologies:
 - [Node.js](https://nodejs.org)
 - [TypeScript](https://www.typescriptlang.org)
 
