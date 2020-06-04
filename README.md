@@ -1,14 +1,14 @@
 Ecoleta aims to connect people to companies that collect waste.
 
 ##Technologies:
-Node.js
-TypeScript
+- [Node.js](https://nodejs.org)
+- [TypeScript](https://www.typescriptlang.org)
 
 ## How To Use:
-To clone and run this application, you'll need Git, Node.js installed on your computer.
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org) installed on your computer.
 
 From your command line:
-
+```bash
 Install API
 # Clone this repository
 $ git clone https://github.com/LuanZanchet/EColetaServer.git
@@ -27,6 +27,6 @@ $ npm run knex:seed
 
 # Start server
 $ npm run dev
-
+```
 📝 License
 This project is under the MIT license. See the LICENSE for details.
