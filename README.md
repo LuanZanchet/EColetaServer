@@ -1,3 +1,5 @@
+## Ecoleta Server
+
 Ecoleta aims to connect people to companies that collect waste.
 
 ## Technologies:
